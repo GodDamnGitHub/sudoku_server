@@ -16,3 +16,7 @@ User.create(name: "Ms. Jamika Shields", email: "Shields@gmail.com", password: "J
 User.create(name: "Jeri Hamill", email: "Hamill@brandeis.edu", password: "JeriH12345")
 User.create(name: "Mrs. Jayson Botsford", email: "Botsford@yahoo.com", password: "JaysonB12345")
 User.create(name: "Mrs. Brittani Kuhn", email: "Kuhn@gmail.com", password: "BrittaniK12345")
+User.create(name: "Zixin Zhang", email: "zixinzhang@brandeis.edu", password: "zzx971106")
+User.create(name: "Lebron James", email: "LBJ@hotmail.com", password: "LBJ12345")
+
+Score.create(user_id: 12, time: 181, mode: "easy")
